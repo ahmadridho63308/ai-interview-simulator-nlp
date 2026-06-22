@@ -380,8 +380,6 @@ Session Run
 
 ![Result 2](screenshots/03_results-2.png)
 
-![Result 3](screenshots/03_results-3.png)
-
 ### LangSmith Dashboard
 
 ![LangSmith](screenshots/04_langsmith.png)

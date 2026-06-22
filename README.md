@@ -238,8 +238,8 @@ ai-interview-simulator/
 ### Langkah 1: Clone Repository
 
 ```bash
-git clone https://github.com/amdrydho26/ai-interview-simulator.git
-cd ai-interview-simulator
+git clone https://github.com/ahmadridho63308/ai-interview-simulator-nlp.git
+cd ai-interview-simulator-nlp
 ```
 
 ### Langkah 2: Buat Virtual Environment
